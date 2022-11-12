@@ -1,7 +1,5 @@
 import sys
 import pygame as pg
-import random
-import pygame.locals
 
 pg.init()
 screen=pg.display.set_mode((900,500))
